@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gambitPnav
-- 👀 I’m interested in Android and Web Development
-- 🌱 I'm currently learning c++
+- 👀 I'm passionate about algorithms and data structures (DSA) and I'm excited to implement them in real-life projects.
+- 🌱 I'm also actively learning web development.
 - 📫 How to reach me ...Dm me on Instagram @priyanav__
 
 
